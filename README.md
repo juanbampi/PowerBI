@@ -41,8 +41,6 @@ Estas métricas permiten monitorear el desempeño financiero de manera dinámica
   <img src="images/captura2.png" width="600"/>
 </p>
 
-> 📁 Las imágenes deben guardarse dentro de una carpeta llamada `images` en el mismo repositorio.
-
 ---
 
 ## 💡 Motivación y aprendizajes
